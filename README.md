@@ -1,1 +1,2 @@
-#Nadesigner
+# NaDesigner
+Naide Component Generator
