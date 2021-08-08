@@ -1,0 +1,13 @@
+C:\Program Files (x86)\NetBeans 8.0.2\platform=1619684369113
+cluster.C:/Users/jjh/Desktop/NaDesigner_2021_v.08-07/build/cluster=1628438218191
+cluster.C:/Program Files (x86)/NetBeans 8.0.2/extide=1619684377112
+cluster.C:/Program Files (x86)/NetBeans 8.0.2/ide=1619684369119
+cluster.C:/Program Files (x86)/NetBeans 8.0.2/java=1619684431385
+cluster.C:/Program Files (x86)/NetBeans 8.0.2/nb=1619684369114
+cluster.C:/Program Files (x86)/NetBeans 8.0.2/platform=1619684369113
+user=1628438218191
+crc=8622
+locale=ko_KR
+branding=nadesigner
+java.version=1.8.0_281
+java.vm.version=25.281-b09
