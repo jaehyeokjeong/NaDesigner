@@ -1,0 +1,7 @@
+ERROR_NO_BADGE:215:no viable alternative at input ''''
+ERROR_NO_BADGE:215:no viable alternative at input '.'
+ERROR_NO_BADGE:215:no viable alternative at input 'join'
+ERROR_NO_BADGE:215:mismatched input '(' expecting RPAREN
+ERROR_NO_BADGE:215:mismatched input 'frames' expecting NEWLINE
+ERROR_NO_BADGE:215:mismatched input '\\n' expecting DEDENT
+ERROR_NO_BADGE:218:mismatched input '' expecting EOF
